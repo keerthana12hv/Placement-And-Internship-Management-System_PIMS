@@ -151,7 +151,7 @@ Admins act as platform gatekeepers, ensuring quality control before companies ca
 
 ## 🏗 Architecture & Design Decisions
 
-PIMS follows a **Layered Monolithic Architecture** — a deliberate choice for a solo project of this scope. It keeps the codebase navigable while maintaining clear separation of responsibilities.
+PIMS follows a **Layered Monolithic Architecture** — a deliberate choice for a solo project of this scope. It keeps the codebase navigable while maintaining clear separation of responsibilities
 
 ```
 Controller → Service → Repository → Database
